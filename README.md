@@ -27,7 +27,7 @@ As tecnologias e ferramentas utilizadas neste projeto são:
 
 ## Estrutura de Pastas
 ```plaintext
-/projeto-sorriso-perfeito
+/sorrisoPerfeito
 │
 ├── index.html            # Página principal do projeto
 ├── styles/
@@ -40,15 +40,12 @@ As tecnologias e ferramentas utilizadas neste projeto são:
 ````
 # Como Executar o Projeto
 1. Clone o repositório em sua máquina local:
-git clone [https://github.com/marcellenevessandy/ReviewWeb2.git](https://github.com/marcellenevessandy/ReviewWeb2)
+git clone [https://github.com/marcellenevessandy/sorrisoPerfeito](https://github.com/marcellenevessandy/sorrisoPerfeito)
 2. Navegue até o diretório do projeto:
 cd projeto-sorriso-perfeito
 3. Abra o arquivo index.html em seu navegador.
 
-Dica: Você pode usar uma extensão de servidor local no VS Code, como
-Live Server, para visualizar o projeto com recarregamento automático.
-
 ## Desenvolvedor
 Nome do Aluno: [Marcelle Neves Sandy]
-Contato: [MarcelleNevesSandy]
+Contato: [marcellesandy3@gmail.com]
 
