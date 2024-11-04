@@ -27,7 +27,7 @@ As tecnologias e ferramentas utilizadas neste projeto são:
 
 ## Estrutura de Pastas
 ```plaintext
-/projeto-sorriso-perfeito
+/sorrisoPerfeito
 │
 ├── index.html            # Página principal do projeto
 ├── styles/
